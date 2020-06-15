@@ -1,0 +1,769 @@
+occ,state,year,enact,yrLength
+Accountants,Alabama,1919,1,24
+Accountants,Arizona,1919,1,24
+Accountants,Arkansas,1915,1,20
+Accountants,California,1901,1,6
+Accountants,Colorado,1907,1,12
+Accountants,Connecticut,1907,1,12
+Accountants,Delaware,1913,1,18
+Accountants,Florida,1951,1,56
+Accountants,Georgia,1908,1,13
+Accountants,Idaho,1917,1,22
+Accountants,Illinois,1903,1,8
+Accountants,Indiana,1915,1,20
+Accountants,Iowa,1915,1,20
+Accountants,Kansas,1915,1,20
+Accountants,Kentucky,1916,1,21
+Accountants,Louisiana,1908,1,13
+Accountants,Maine,1913,1,18
+Accountants,Maryland,1900,1,5
+Accountants,Massachusetts,1909,1,14
+Accountants,Michigan,1905,1,10
+Accountants,Minnesota,1909,1,14
+Accountants,Mississippi,1920,1,25
+Accountants,Missouri,1909,1,14
+Accountants,Montana,1909,1,14
+Accountants,Nebraska,1909,1,14
+Accountants,Nevada,1913,1,18
+Accountants,New Hampshire,1917,1,22
+Accountants,New Jersey,1904,1,9
+Accountants,New Mexico,1921,1,26
+Accountants,New York,1896,1,1
+Accountants,North Carolina,1913,1,18
+Accountants,North Dakota,1913,1,18
+Accountants,Ohio,1908,1,13
+Accountants,Oklahoma,1917,1,22
+Accountants,Oregon,1915,1,20
+Accountants,Pennsylvania,1906,1,11
+Accountants,Rhode Island,1906,1,11
+Accountants,South Carolina,1915,1,20
+Accountants,South Dakota,1917,1,22
+Accountants,Tennessee,1913,1,18
+Accountants,Texas,1915,1,20
+Accountants,Utah,1907,1,12
+Accountants,Vermont,1912,1,17
+Accountants,Virginia,1910,1,15
+Accountants,Washington,1903,1,8
+Accountants,West Virginia,1911,1,16
+Accountants,Wisconsin,1913,1,18
+Accountants,Wyoming,1911,1,16
+Architects,Alabama,1931,0,35
+Architects,Arizona,1921,1,25
+Architects,Arkansas,1941,1,45
+Architects,California,1901,1,5
+Architects,Colorado,1909,1,13
+Architects,Connecticut,1933,1,37
+Architects,Delaware,1933,1,37
+Architects,Florida,1915,1,19
+Architects,Georgia,1919,1,23
+Architects,Idaho,1917,1,21
+Architects,Illinois,1897,1,1
+Architects,Indiana,1929,1,33
+Architects,Iowa,1927,1,31
+Architects,Kansas,1949,1,53
+Architects,Kentucky,1930,1,34
+Architects,Louisiana,1910,1,14
+Architects,Maine,1945,1,49
+Architects,Maryland,1935,1,39
+Architects,Massachusetts,NA,1,NA
+Architects,Michigan,1915,1,19
+Architects,Minnesota,1921,1,25
+Architects,Mississippi,1928,1,32
+Architects,Missouri,1941,1,45
+Architects,Montana,1917,1,21
+Architects,Nebraska,1937,1,41
+Architects,Nevada,1949,1,53
+Architects,New Hampshire,1947,1,51
+Architects,New Jersey,1902,1,6
+Architects,New Mexico,1931,1,35
+Architects,New York,1915,1,19
+Architects,North Carolina,1915,1,19
+Architects,North Dakota,1913,1,17
+Architects,Ohio,1931,1,35
+Architects,Oklahoma,1925,1,29
+Architects,Oregon,1919,1,23
+Architects,Pennsylvania,1936,1,40
+Architects,Rhode Island,1936,1,40
+Architects,South Carolina,1917,1,21
+Architects,South Dakota,1925,1,29
+Architects,Tennessee,1921,1,25
+Architects,Texas,1937,1,41
+Architects,Utah,1921,1,25
+Architects,Vermont,1951,1,55
+Architects,Virginia,1920,0,24
+Architects,Washington,1903,1,7
+Architects,West Virginia,1921,1,25
+Architects,Wisconsin,1917,1,21
+Architects,Wyoming,1951,1,55
+Barbers,Alabama,NA,0,50
+Barbers,Arizona,1928,1,32
+Barbers,Arkansas,1937,1,41
+Barbers,California,1927,1,31
+Barbers,Colorado,1909,1,13
+Barbers,Connecticut,1902,1,6
+Barbers,Delaware,1901,1,5
+Barbers,Florida,1931,1,35
+Barbers,Georgia,1914,1,18
+Barbers,Idaho,1927,1,31
+Barbers,Illinois,1909,1,13
+Barbers,Indiana,1933,1,37
+Barbers,Iowa,1927,1,31
+Barbers,Kansas,1903,1,7
+Barbers,Kentucky,1902,1,6
+Barbers,Louisiana,1928,1,32
+Barbers,Maine,1933,1,37
+Barbers,Maryland,1904,1,8
+Barbers,Massachusetts,1931,1,35
+Barbers,Michigan,NA,1,NA
+Barbers,Minnesota,1897,1,1
+Barbers,Mississippi,1930,1,34
+Barbers,Missouri,1921,1,25
+Barbers,Montana,1929,1,33
+Barbers,Nebraska,1927,1,31
+Barbers,Nevada,NA,1,NA
+Barbers,New Hampshire,1937,1,41
+Barbers,New Jersey,1933,1,37
+Barbers,New Mexico,1937,1,41
+Barbers,New York,1946,1,50
+Barbers,North Carolina,1929,1,33
+Barbers,North Dakota,1901,1,5
+Barbers,Ohio,1933,1,37
+Barbers,Oklahoma,1931,1,35
+Barbers,Oregon,1899,1,3
+Barbers,Pennsylvania,1903,1,7
+Barbers,Rhode Island,1903,1,7
+Barbers,South Carolina,1937,1,41
+Barbers,South Dakota,1927,1,31
+Barbers,Tennessee,1929,1,33
+Barbers,Texas,1929,1,33
+Barbers,Utah,1903,1,7
+Barbers,Vermont,1937,1,41
+Barbers,Virginia,NA,0,50
+Barbers,Washington,1901,1,5
+Barbers,West Virginia,1933,1,37
+Barbers,Wisconsin,1935,1,39
+Barbers,Wyoming,1931,1,35
+Beauticians,Alabama,NA,0,35
+Beauticians,Arizona,1928,1,15
+Beauticians,Arkansas,1947,1,34
+Beauticians,California,1927,1,14
+Beauticians,Colorado,1931,1,18
+Beauticians,Connecticut,1927,1,14
+Beauticians,Delaware,NA,0,35
+Beauticians,Florida,1935,1,22
+Beauticians,Georgia,1914,1,1
+Beauticians,Idaho,1929,1,16
+Beauticians,Illinois,1925,1,12
+Beauticians,Indiana,1935,1,22
+Beauticians,Iowa,1927,1,14
+Beauticians,Kansas,1927,1,14
+Beauticians,Kentucky,1932,1,19
+Beauticians,Louisiana,1924,1,11
+Beauticians,Maine,1933,1,20
+Beauticians,Maryland,1935,1,22
+Beauticians,Massachusetts,1935,1,22
+Beauticians,Michigan,1931,1,18
+Beauticians,Minnesota,1927,1,14
+Beauticians,Mississippi,1948,1,35
+Beauticians,Missouri,1929,1,16
+Beauticians,Montana,1929,1,16
+Beauticians,Nebraska,1929,1,16
+Beauticians,Nevada,1931,1,18
+Beauticians,New Hampshire,1937,1,24
+Beauticians,New Jersey,1936,1,23
+Beauticians,New Mexico,1925,1,12
+Beauticians,New York,1946,1,33
+Beauticians,North Carolina,1933,1,20
+Beauticians,North Dakota,1927,1,14
+Beauticians,Ohio,1933,1,20
+Beauticians,Oklahoma,1935,1,22
+Beauticians,Oregon,1927,1,14
+Beauticians,Pennsylvania,1933,1,20
+Beauticians,Rhode Island,1926,1,13
+Beauticians,South Carolina,1933,1,20
+Beauticians,South Dakota,1927,1,14
+Beauticians,Tennessee,1939,1,26
+Beauticians,Texas,1935,1,22
+Beauticians,Utah,1925,1,12
+Beauticians,Vermont,1937,1,24
+Beauticians,Virginia,NA,0,35
+Beauticians,Washington,1927,1,14
+Beauticians,West Virginia,1933,1,20
+Beauticians,Wisconsin,1925,1,12
+Beauticians,Wyoming,1937,1,24
+Chiropodists,Alabama,NA,1,NA
+Chiropodists,Arizona,1941,1,47
+Chiropodists,Arkansas,1923,1,29
+Chiropodists,California,1907,1,13
+Chiropodists,Colorado,1915,1,21
+Chiropodists,Connecticut,1915,1,21
+Chiropodists,Delaware,1923,1,29
+Chiropodists,Florida,1931,1,37
+Chiropodists,Georgia,1933,1,39
+Chiropodists,Idaho,1925,1,31
+Chiropodists,Illinois,NA,1,NA
+Chiropodists,Indiana,1925,1,31
+Chiropodists,Iowa,1921,1,27
+Chiropodists,Kansas,1927,1,33
+Chiropodists,Kentucky,1920,1,26
+Chiropodists,Louisiana,1916,1,22
+Chiropodists,Maine,1933,1,39
+Chiropodists,Maryland,1916,1,22
+Chiropodists,Massachusetts,NA,1,NA
+Chiropodists,Michigan,NA,1,NA
+Chiropodists,Minnesota,1917,1,23
+Chiropodists,Mississippi,1938,1,44
+Chiropodists,Missouri,1919,1,25
+Chiropodists,Montana,1935,1,41
+Chiropodists,Nebraska,1919,1,25
+Chiropodists,Nevada,1917,1,23
+Chiropodists,New Hampshire,1919,1,25
+Chiropodists,New Jersey,1908,1,14
+Chiropodists,New Mexico,1939,1,45
+Chiropodists,New York,1895,1,1
+Chiropodists,North Carolina,1919,1,25
+Chiropodists,North Dakota,1929,1,35
+Chiropodists,Ohio,1916,1,22
+Chiropodists,Oklahoma,1935,1,41
+Chiropodists,Oregon,1925,1,31
+Chiropodists,Pennsylvania,1913,1,19
+Chiropodists,Rhode Island,1917,1,23
+Chiropodists,South Carolina,NA,1,NA
+Chiropodists,South Dakota,1931,1,37
+Chiropodists,Tennessee,1931,1,37
+Chiropodists,Texas,1923,1,29
+Chiropodists,Utah,1931,1,37
+Chiropodists,Vermont,1917,1,23
+Chiropodists,Virginia,1916,1,22
+Chiropodists,Washington,1917,1,23
+Chiropodists,West Virginia,NA,1,NA
+Chiropodists,Wisconsin,1917,1,23
+Chiropodists,Wyoming,1937,1,43
+Chiropractors,Alabama,1911,1,13
+Chiropractors,Arizona,1921,1,23
+Chiropractors,Arkansas,1915,1,17
+Chiropractors,California,1922,1,24
+Chiropractors,Colorado,1933,1,35
+Chiropractors,Connecticut,1917,1,19
+Chiropractors,Delaware,1937,1,39
+Chiropractors,Florida,1919,1,21
+Chiropractors,Georgia,1921,1,23
+Chiropractors,Idaho,1919,1,21
+Chiropractors,Illinois,1899,1,1
+Chiropractors,Indiana,1927,1,29
+Chiropractors,Iowa,1921,1,23
+Chiropractors,Kansas,1913,1,15
+Chiropractors,Kentucky,1928,1,30
+Chiropractors,Louisiana,NA,0,51
+Chiropractors,Maine,1923,1,25
+Chiropractors,Maryland,1920,1,22
+Chiropractors,Massachusetts,NA,0,51
+Chiropractors,Michigan,1933,1,35
+Chiropractors,Minnesota,1919,1,21
+Chiropractors,Mississippi,NA,0,51
+Chiropractors,Missouri,1927,1,29
+Chiropractors,Montana,1917,1,19
+Chiropractors,Nebraska,1915,1,17
+Chiropractors,Nevada,1923,1,25
+Chiropractors,New Hampshire,1921,1,23
+Chiropractors,New Jersey,1923,1,25
+Chiropractors,New Mexico,1921,1,23
+Chiropractors,New York,NA,0,51
+Chiropractors,North Carolina,1917,1,19
+Chiropractors,North Dakota,1915,1,17
+Chiropractors,Ohio,1916,1,18
+Chiropractors,Oklahoma,1921,1,23
+Chiropractors,Oregon,1915,1,17
+Chiropractors,Pennsylvania,1913,1,15
+Chiropractors,Rhode Island,1927,1,29
+Chiropractors,South Carolina,1934,1,36
+Chiropractors,South Dakota,1921,1,23
+Chiropractors,Tennessee,1923,1,25
+Chiropractors,Texas,1949,1,51
+Chiropractors,Utah,1921,1,23
+Chiropractors,Vermont,1919,1,21
+Chiropractors,Virginia,1913,1,15
+Chiropractors,Washington,1919,1,21
+Chiropractors,West Virginia,1925,1,27
+Chiropractors,Wisconsin,1925,1,27
+Chiropractors,Wyoming,1929,1,31
+Dentists,Alabama,1881,1,14
+Dentists,Arizona,1913,1,46
+Dentists,Arkansas,1887,1,20
+Dentists,California,1885,1,18
+Dentists,Colorado,1889,1,22
+Dentists,Connecticut,1893,1,26
+Dentists,Delaware,1885,1,18
+Dentists,Florida,1887,1,20
+Dentists,Georgia,1920,1,53
+Dentists,Idaho,1919,1,52
+Dentists,Illinois,1881,1,14
+Dentists,Indiana,1887,1,20
+Dentists,Iowa,1900,1,33
+Dentists,Kansas,1903,1,36
+Dentists,Kentucky,1878,1,11
+Dentists,Louisiana,1880,1,13
+Dentists,Maine,1891,1,24
+Dentists,Maryland,1884,1,17
+Dentists,Massachusetts,1887,1,20
+Dentists,Michigan,1883,1,16
+Dentists,Minnesota,1885,1,18
+Dentists,Mississippi,1892,1,25
+Dentists,Missouri,1917,1,50
+Dentists,Montana,1895,1,28
+Dentists,Nebraska,1905,1,38
+Dentists,Nevada,1895,1,28
+Dentists,New Hampshire,1895,1,28
+Dentists,New Jersey,1890,1,23
+Dentists,New Mexico,1893,1,26
+Dentists,New York,1868,1,1
+Dentists,North Carolina,1935,1,68
+Dentists,North Dakota,1885,1,18
+Dentists,Ohio,1868,1,1
+Dentists,Oklahoma,1890,1,23
+Dentists,Oregon,1887,1,20
+Dentists,Pennsylvania,1876,1,9
+Dentists,Rhode Island,1888,1,21
+Dentists,South Carolina,1875,1,8
+Dentists,South Dakota,1901,1,34
+Dentists,Tennessee,1925,1,58
+Dentists,Texas,1889,1,22
+Dentists,Utah,1909,1,42
+Dentists,Vermont,1882,1,15
+Dentists,Virginia,1887,1,20
+Dentists,Washington,1888,1,21
+Dentists,West Virginia,1881,1,14
+Dentists,Wisconsin,1885,1,18
+Dentists,Wyoming,1905,1,38
+Embalmers,Alabama,1915,1,21
+Embalmers,Arizona,1909,1,15
+Embalmers,Arkansas,1909,1,15
+Embalmers,California,1915,1,21
+Embalmers,Colorado,1918,1,24
+Embalmers,Connecticut,1903,1,9
+Embalmers,Delaware,NA,1,NA
+Embalmers,Florida,1917,1,23
+Embalmers,Georgia,1937,1,43
+Embalmers,Idaho,1909,1,15
+Embalmers,Illinois,1905,1,11
+Embalmers,Indiana,NA,1,NA
+Embalmers,Iowa,1898,1,4
+Embalmers,Kansas,1907,1,13
+Embalmers,Kentucky,1904,1,10
+Embalmers,Louisiana,1914,1,20
+Embalmers,Maine,NA,1,NA
+Embalmers,Maryland,1902,1,8
+Embalmers,Massachusetts,NA,1,NA
+Embalmers,Michigan,NA,1,NA
+Embalmers,Minnesota,1898,1,4
+Embalmers,Mississippi,1912,1,18
+Embalmers,Missouri,1895,1,1
+Embalmers,Montana,1915,1,21
+Embalmers,Nebraska,1931,1,37
+Embalmers,Nevada,1909,1,15
+Embalmers,New Hampshire,1935,1,41
+Embalmers,New Jersey,1927,1,33
+Embalmers,New Mexico,NA,1,NA
+Embalmers,New York,NA,1,NA
+Embalmers,North Carolina,1901,1,7
+Embalmers,North Dakota,1899,1,5
+Embalmers,Ohio,1902,1,8
+Embalmers,Oklahoma,1905,1,11
+Embalmers,Oregon,1921,1,27
+Embalmers,Pennsylvania,NA,1,NA
+Embalmers,Rhode Island,1908,1,14
+Embalmers,South Carolina,NA,1,NA
+Embalmers,South Dakota,NA,1,NA
+Embalmers,Tennessee,1909,1,15
+Embalmers,Texas,1903,1,9
+Embalmers,Utah,1921,1,27
+Embalmers,Vermont,1910,1,16
+Embalmers,Virginia,1897,1,3
+Embalmers,Washington,NA,1,NA
+Embalmers,West Virginia,1923,1,29
+Embalmers,Wisconsin,1933,1,39
+Embalmers,Wyoming,1913,1,19
+Engineers,Alabama,1935,1,28
+Engineers,Arizona,1921,1,14
+Engineers,Arkansas,1925,1,18
+Engineers,California,1929,1,22
+Engineers,Colorado,1919,1,12
+Engineers,Connecticut,1935,1,28
+Engineers,Delaware,1941,1,34
+Engineers,Florida,1917,1,10
+Engineers,Georgia,1937,1,30
+Engineers,Idaho,1918,1,11
+Engineers,Illinois,1941,1,34
+Engineers,Indiana,1921,1,14
+Engineers,Iowa,1919,1,12
+Engineers,Kansas,1947,1,40
+Engineers,Kentucky,1938,1,31
+Engineers,Louisiana,1908,1,1
+Engineers,Maine,1935,1,28
+Engineers,Maryland,1939,1,32
+Engineers,Massachusetts,1941,1,34
+Engineers,Michigan,1919,1,12
+Engineers,Minnesota,1921,1,14
+Engineers,Mississippi,1928,1,21
+Engineers,Missouri,1941,1,34
+Engineers,Montana,1947,1,40
+Engineers,Nebraska,1937,1,30
+Engineers,Nevada,1919,1,12
+Engineers,New Hampshire,1945,1,38
+Engineers,New Jersey,1921,1,14
+Engineers,New Mexico,1935,1,28
+Engineers,New York,1920,1,13
+Engineers,North Carolina,1921,1,14
+Engineers,North Dakota,1943,1,36
+Engineers,Ohio,1933,1,26
+Engineers,Oklahoma,1935,1,28
+Engineers,Oregon,1919,1,12
+Engineers,Pennsylvania,1921,1,14
+Engineers,Rhode Island,1938,1,31
+Engineers,South Carolina,1922,1,15
+Engineers,South Dakota,1925,1,18
+Engineers,Tennessee,1921,1,14
+Engineers,Texas,1937,1,30
+Engineers,Utah,1935,1,28
+Engineers,Vermont,1939,1,32
+Engineers,Virginia,1920,1,13
+Engineers,Washington,1935,1,28
+Engineers,West Virginia,1921,1,14
+Engineers,Wisconsin,1917,1,10
+Engineers,Wyoming,1925,1,18
+Nurses,Alabama,1915,1,13
+Nurses,Arizona,1921,1,19
+Nurses,Arkansas,1913,1,11
+Nurses,California,1905,1,3
+Nurses,Colorado,1905,1,3
+Nurses,Connecticut,1905,1,3
+Nurses,Delaware,1909,1,7
+Nurses,Florida,1913,1,11
+Nurses,Georgia,1907,1,5
+Nurses,Idaho,1911,1,9
+Nurses,Illinois,1907,1,5
+Nurses,Indiana,1905,1,3
+Nurses,Iowa,1907,1,5
+Nurses,Kansas,1913,1,11
+Nurses,Kentucky,1914,1,12
+Nurses,Louisiana,1912,1,10
+Nurses,Maine,1915,1,13
+Nurses,Maryland,1904,1,2
+Nurses,Massachusetts,1910,1,8
+Nurses,Michigan,1909,1,7
+Nurses,Minnesota,1907,1,5
+Nurses,Mississippi,1914,1,12
+Nurses,Missouri,1921,1,19
+Nurses,Montana,1913,1,11
+Nurses,Nebraska,1909,1,7
+Nurses,Nevada,1933,1,31
+Nurses,New Hampshire,1907,1,5
+Nurses,New Jersey,1912,1,10
+Nurses,New Mexico,1923,1,21
+Nurses,New York,1903,1,1
+Nurses,North Carolina,1917,1,15
+Nurses,North Dakota,1915,1,13
+Nurses,Ohio,1915,1,13
+Nurses,Oklahoma,1909,1,7
+Nurses,Oregon,1911,1,9
+Nurses,Pennsylvania,1909,1,7
+Nurses,Rhode Island,1912,1,10
+Nurses,South Carolina,1919,1,17
+Nurses,South Dakota,1917,1,15
+Nurses,Tennessee,1915,1,13
+Nurses,Texas,1909,1,7
+Nurses,Utah,1917,1,15
+Nurses,Vermont,1910,1,8
+Nurses,Virginia,1903,1,1
+Nurses,Washington,1909,1,7
+Nurses,West Virginia,1907,1,5
+Nurses,Wisconsin,1911,1,9
+Nurses,Wyoming,1909,1,7
+Optometrists,Alabama,1919,1,17
+Optometrists,Arizona,1925,1,23
+Optometrists,Arkansas,1915,1,13
+Optometrists,California,1903,1,1
+Optometrists,Colorado,1925,1,23
+Optometrists,Connecticut,1913,1,11
+Optometrists,Delaware,1909,1,7
+Optometrists,Florida,1909,1,7
+Optometrists,Georgia,1916,1,14
+Optometrists,Idaho,1919,1,17
+Optometrists,Illinois,1915,1,13
+Optometrists,Indiana,1907,1,5
+Optometrists,Iowa,1909,1,7
+Optometrists,Kansas,1923,1,21
+Optometrists,Kentucky,1920,1,18
+Optometrists,Louisiana,1918,1,16
+Optometrists,Maine,1909,1,7
+Optometrists,Maryland,1914,1,12
+Optometrists,Massachusetts,1911,1,9
+Optometrists,Michigan,NA,1,NA
+Optometrists,Minnesota,NA,1,NA
+Optometrists,Mississippi,1920,1,18
+Optometrists,Missouri,1921,1,19
+Optometrists,Montana,1907,1,5
+Optometrists,Nebraska,1907,1,5
+Optometrists,Nevada,1913,1,11
+Optometrists,New Hampshire,1911,1,9
+Optometrists,New Jersey,1914,1,12
+Optometrists,New Mexico,NA,1,NA
+Optometrists,New York,1908,1,6
+Optometrists,North Carolina,1909,1,7
+Optometrists,North Dakota,1903,1,1
+Optometrists,Ohio,1919,1,17
+Optometrists,Oklahoma,1911,1,9
+Optometrists,Oregon,1905,1,3
+Optometrists,Pennsylvania,1917,1,15
+Optometrists,Rhode Island,1909,1,7
+Optometrists,South Carolina,NA,1,NA
+Optometrists,South Dakota,1913,1,11
+Optometrists,Tennessee,1925,1,23
+Optometrists,Texas,1921,1,19
+Optometrists,Utah,1907,1,5
+Optometrists,Vermont,1908,1,6
+Optometrists,Virginia,1918,1,16
+Optometrists,Washington,1919,1,17
+Optometrists,West Virginia,1909,1,7
+Optometrists,Wisconsin,1915,1,13
+Optometrists,Wyoming,1939,1,37
+Osteopaths,Alabama,1911,1,39
+Osteopaths,Arizona,1941,1,69
+Osteopaths,Arkansas,1903,1,31
+Osteopaths,California,1901,1,29
+Osteopaths,Colorado,1881,1,9
+Osteopaths,Connecticut,1900,1,28
+Osteopaths,Delaware,1895,1,23
+Osteopaths,Florida,1927,1,55
+Osteopaths,Georgia,1909,1,37
+Osteopaths,Idaho,1907,1,35
+Osteopaths,Illinois,1899,1,27
+Osteopaths,Indiana,1905,1,33
+Osteopaths,Iowa,1898,1,26
+Osteopaths,Kansas,1913,1,41
+Osteopaths,Kentucky,1893,1,21
+Osteopaths,Louisiana,1908,1,36
+Osteopaths,Maine,1919,1,47
+Osteopaths,Maryland,1914,1,42
+Osteopaths,Massachusetts,NA,1,NA
+Osteopaths,Michigan,NA,1,NA
+Osteopaths,Minnesota,1903,1,31
+Osteopaths,Mississippi,1896,1,24
+Osteopaths,Missouri,1903,1,31
+Osteopaths,Montana,1901,1,29
+Osteopaths,Nebraska,1919,1,47
+Osteopaths,Nevada,1925,1,53
+Osteopaths,New Hampshire,NA,1,NA
+Osteopaths,New Jersey,1913,1,41
+Osteopaths,New Mexico,NA,1,NA
+Osteopaths,New York,1907,1,35
+Osteopaths,North Carolina,1907,1,35
+Osteopaths,North Dakota,1909,1,37
+Osteopaths,Ohio,1902,1,30
+Osteopaths,Oklahoma,1903,1,31
+Osteopaths,Oregon,1907,1,35
+Osteopaths,Pennsylvania,1909,1,37
+Osteopaths,Rhode Island,1914,1,42
+Osteopaths,South Carolina,NA,1,NA
+Osteopaths,South Dakota,1900,1,28
+Osteopaths,Tennessee,1905,1,33
+Osteopaths,Texas,1873,1,1
+Osteopaths,Utah,1907,1,35
+Osteopaths,Vermont,1904,1,32
+Osteopaths,Virginia,1903,1,31
+Osteopaths,Washington,1919,1,47
+Osteopaths,West Virginia,1907,1,35
+Osteopaths,Wisconsin,1901,1,29
+Osteopaths,Wyoming,1899,1,27
+Pharmacists,Alabama,1931,1,58
+Pharmacists,Arizona,1935,1,62
+Pharmacists,Arkansas,1891,1,18
+Pharmacists,California,1891,1,18
+Pharmacists,Colorado,1887,1,14
+Pharmacists,Connecticut,1881,1,8
+Pharmacists,Delaware,1883,1,10
+Pharmacists,Florida,1889,1,16
+Pharmacists,Georgia,1881,1,8
+Pharmacists,Idaho,1889,1,16
+Pharmacists,Illinois,1881,1,8
+Pharmacists,Indiana,1899,1,26
+Pharmacists,Iowa,1880,1,7
+Pharmacists,Kansas,1885,1,12
+Pharmacists,Kentucky,1874,1,1
+Pharmacists,Louisiana,1888,1,15
+Pharmacists,Maine,1877,1,4
+Pharmacists,Maryland,1902,1,29
+Pharmacists,Massachusetts,1885,1,12
+Pharmacists,Michigan,1885,1,12
+Pharmacists,Minnesota,1885,1,12
+Pharmacists,Mississippi,1900,1,27
+Pharmacists,Missouri,1881,1,8
+Pharmacists,Montana,1895,1,22
+Pharmacists,Nebraska,1887,1,14
+Pharmacists,Nevada,1901,1,28
+Pharmacists,New Hampshire,1875,1,2
+Pharmacists,New Jersey,1877,1,4
+Pharmacists,New Mexico,1889,1,16
+Pharmacists,New York,1884,1,11
+Pharmacists,North Carolina,1905,1,32
+Pharmacists,North Dakota,1887,1,14
+Pharmacists,Ohio,1884,1,11
+Pharmacists,Oklahoma,1899,1,26
+Pharmacists,Oregon,1891,1,18
+Pharmacists,Pennsylvania,1887,1,14
+Pharmacists,Rhode Island,1875,1,2
+Pharmacists,South Carolina,1876,1,3
+Pharmacists,South Dakota,1890,1,17
+Pharmacists,Tennessee,1919,1,46
+Pharmacists,Texas,1907,1,34
+Pharmacists,Utah,1892,1,19
+Pharmacists,Vermont,1894,1,21
+Pharmacists,Virginia,1886,1,13
+Pharmacists,Washington,1891,1,18
+Pharmacists,West Virginia,1881,1,8
+Pharmacists,Wisconsin,1882,1,9
+Pharmacists,Wyoming,1888,1,15
+Physicians,Alabama,1911,1,39
+Physicians,Arizona,1901,1,29
+Physicians,Arkansas,1903,1,31
+Physicians,California,1876,1,4
+Physicians,Colorado,1881,1,9
+Physicians,Connecticut,1893,1,21
+Physicians,Delaware,1895,1,23
+Physicians,Florida,1889,1,17
+Physicians,Georgia,1894,1,22
+Physicians,Idaho,1899,1,27
+Physicians,Illinois,1877,1,5
+Physicians,Indiana,1897,1,25
+Physicians,Iowa,1883,1,11
+Physicians,Kansas,1901,1,29
+Physicians,Kentucky,1893,1,21
+Physicians,Louisiana,1894,1,22
+Physicians,Maine,1895,1,23
+Physicians,Maryland,1892,1,20
+Physicians,Massachusetts,1894,1,22
+Physicians,Michigan,NA,1,NA
+Physicians,Minnesota,1883,1,11
+Physicians,Mississippi,1882,1,10
+Physicians,Missouri,1901,1,29
+Physicians,Montana,1889,1,17
+Physicians,Nebraska,NA,1,NA
+Physicians,Nevada,1899,1,27
+Physicians,New Hampshire,1915,1,43
+Physicians,New Jersey,1890,1,18
+Physicians,New Mexico,1889,1,17
+Physicians,New York,1879,1,7
+Physicians,North Carolina,NA,1,NA
+Physicians,North Dakota,1890,1,18
+Physicians,Ohio,1896,1,24
+Physicians,Oklahoma,1908,1,36
+Physicians,Oregon,1895,1,23
+Physicians,Pennsylvania,1877,1,5
+Physicians,Rhode Island,1895,1,23
+Physicians,South Carolina,NA,1,NA
+Physicians,South Dakota,1900,1,28
+Physicians,Tennessee,1889,1,17
+Physicians,Texas,1873,1,1
+Physicians,Utah,1892,1,20
+Physicians,Vermont,1904,1,32
+Physicians,Virginia,1884,1,12
+Physicians,Washington,1909,1,37
+Physicians,West Virginia,1882,1,10
+Physicians,Wisconsin,1897,1,25
+Physicians,Wyoming,1899,1,27
+Teachers,Alabama,NA,1,NA
+Teachers,Arizona,1912,1,132
+Teachers,Arkansas,NA,1,NA
+Teachers,California,1851,1,71
+Teachers,Colorado,NA,1,NA
+Teachers,Connecticut,NA,1,NA
+Teachers,Delaware,NA,1,NA
+Teachers,Florida,NA,1,NA
+Teachers,Georgia,NA,1,NA
+Teachers,Idaho,NA,1,NA
+Teachers,Illinois,1913,1,133
+Teachers,Indiana,NA,1,NA
+Teachers,Iowa,1846,1,66
+Teachers,Kansas,1873,1,93
+Teachers,Kentucky,1838,1,58
+Teachers,Louisiana,NA,1,NA
+Teachers,Maine,NA,1,NA
+Teachers,Maryland,NA,1,NA
+Teachers,Massachusetts,1781,1,1
+Teachers,Michigan,NA,1,NA
+Teachers,Minnesota,1921,1,141
+Teachers,Mississippi,1886,1,106
+Teachers,Missouri,1865,1,85
+Teachers,Montana,NA,1,NA
+Teachers,Nebraska,1867,1,87
+Teachers,Nevada,NA,1,NA
+Teachers,New Hampshire,NA,1,NA
+Teachers,New Jersey,1903,1,123
+Teachers,New Mexico,NA,1,NA
+Teachers,New York,1897,1,117
+Teachers,North Carolina,1917,1,137
+Teachers,North Dakota,NA,1,NA
+Teachers,Ohio,1825,1,45
+Teachers,Oklahoma,NA,1,NA
+Teachers,Oregon,1899,1,119
+Teachers,Pennsylvania,1854,1,74
+Teachers,Rhode Island,NA,1,NA
+Teachers,South Carolina,NA,1,NA
+Teachers,South Dakota,NA,1,NA
+Teachers,Tennessee,1855,1,75
+Teachers,Texas,1905,1,125
+Teachers,Utah,NA,1,NA
+Teachers,Vermont,1888,1,108
+Teachers,Virginia,NA,1,NA
+Teachers,Washington,NA,1,NA
+Teachers,West Virginia,NA,1,NA
+Teachers,Wisconsin,1868,1,88
+Teachers,Wyoming,1919,1,139
+Veterinarians,Alabama,1915,1,27
+Veterinarians,Arizona,1923,1,35
+Veterinarians,Arkansas,1915,1,27
+Veterinarians,California,1893,1,5
+Veterinarians,Colorado,1909,1,21
+Veterinarians,Connecticut,1905,1,17
+Veterinarians,Delaware,1915,1,27
+Veterinarians,Florida,1925,1,37
+Veterinarians,Georgia,1908,1,20
+Veterinarians,Idaho,1921,1,33
+Veterinarians,Illinois,1899,1,11
+Veterinarians,Indiana,1905,1,17
+Veterinarians,Iowa,1900,1,12
+Veterinarians,Kansas,1907,1,19
+Veterinarians,Kentucky,1916,1,28
+Veterinarians,Louisiana,1908,1,20
+Veterinarians,Maine,1905,1,17
+Veterinarians,Maryland,1895,1,7
+Veterinarians,Massachusetts,1904,1,16
+Veterinarians,Michigan,NA,1,NA
+Veterinarians,Minnesota,1900,1,12
+Veterinarians,Mississippi,NA,1,NA
+Veterinarians,Missouri,1905,1,17
+Veterinarians,Montana,1913,1,25
+Veterinarians,Nebraska,1905,1,17
+Veterinarians,Nevada,1919,1,31
+Veterinarians,New Hampshire,NA,1,NA
+Veterinarians,New Jersey,1902,1,14
+Veterinarians,New Mexico,NA,1,NA
+Veterinarians,New York,1895,1,7
+Veterinarians,North Carolina,1903,1,15
+Veterinarians,North Dakota,1895,1,7
+Veterinarians,Ohio,1913,1,25
+Veterinarians,Oklahoma,1913,1,25
+Veterinarians,Oregon,1903,1,15
+Veterinarians,Pennsylvania,1889,1,1
+Veterinarians,Rhode Island,NA,1,NA
+Veterinarians,South Carolina,NA,1,NA
+Veterinarians,South Dakota,NA,1,NA
+Veterinarians,Tennessee,1905,1,17
+Veterinarians,Texas,1911,1,23
+Veterinarians,Utah,1907,1,19
+Veterinarians,Vermont,1912,1,24
+Veterinarians,Virginia,1896,1,8
+Veterinarians,Washington,1907,1,19
+Veterinarians,West Virginia,NA,1,NA
+Veterinarians,Wisconsin,1907,1,19
+Veterinarians,Wyoming,1915,1,27
