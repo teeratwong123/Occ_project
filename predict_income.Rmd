@@ -1,0 +1,62 @@
+---
+title: "predict_income"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+# Load the libraries
+
+```{r}
+library(tidyverse)
+library(stargazer)
+```
+
+# Load the data
+
+```{r}
+raw_data <- read_csv("./raw_data/usa_00011.csv")
+```
+
+# Split to train and test set
+
+```{r}
+# Create a training set
+train_set <- raw_data %>%
+  filter(YEAR %in% c(1940, 1950)) %>% # contains only these years
+  mutate(INCWAGE = as.numeric(INCWAGE), # convert income to numerical
+         INCWAGE = ifelse(INCWAGE == 0, 1, INCWAGE)) %>% # change 0 to 1 for logarithm
+  filter(INCWAGE != 999999) # discard observations with missing income data
+
+# Prepare testing data to contain only the same levels training data has. 
+OCC1950_distinct <- unique(train_set$OCC1950)
+AGE_distinct <- unique(train_set$AGE)
+STATEFIP_distinct <- unique(train_set$STATEFIP)
+
+# Create a testing set (for prediction)
+test_set <- raw_data %>%
+  filter(YEAR %in% c(1850, 1860, 1870, 1880, 1900, 1910, 1920, 1930)) %>% # contains only years that have missing income data
+  filter(OCC1950 %in% OCC1950_distinct,
+         AGE %in% AGE_distinct,
+         STATEFIP %in% STATEFIP_distinct) # keep observations that have the same levels with training data
+```
+
+# Regression
+
+```{r}
+# This model only contains fixed effects (without interaction), because it takes very long time
+model_for_prediction <- lm(log(INCWAGE) ~ factor(OCC1950) + factor(AGE) + factor(STATEFIP), data = train_set)
+stargazer(model_for_prediction, type = "text", omit = c("OCC1950"))
+```
+
+# Prediction
+
+```{r}
+predicted_income <- predict(model_for_prediction, test_set)
+test_set$INCWAGE <- exp(predicted_income)
+predicted_data <- rbind(train_set, test_set)
+# write_csv(predicted_data, "data_with_predicted_income.csv")
+```
+
+
+
